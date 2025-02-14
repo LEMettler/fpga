@@ -11,9 +11,13 @@ All VHDL code was tested on an ALERTA DE1 board.
 
 - **shift-register:** 8-Bit with parallel load and serial in-/output.
 
+- **adder:** a ripple adder.
+
 - **frequency-diver:** 50MHz -> 100Hz.
 
-- **running-light**: looping shift-register with different modes (up, down; 2Hz, 4Hz)
+- **running-light:** looping shift-register with different modes. (up, down; 2Hz, 4Hz)
+
+- **reactiontest:** a state machine for a game to test reaction speeds.
 
 ---
 
